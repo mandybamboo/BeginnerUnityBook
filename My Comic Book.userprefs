@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{98575F2C-B70D-5A6D-7F96-89DB22B19930}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/IntroManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/IntroManager.cs" Line="25" Column="2" />
+      <File FileName="Assets/Scripts/ProjectEnums.cs" Line="13" Column="84" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.My_220Comic_220Book PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
